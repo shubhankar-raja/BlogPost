@@ -1,0 +1,18 @@
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/home/shubhankar/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250214-43473-oexl9x sitelibdir\=./.gem.20250214-43473-oexl9x clean
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250214-43473-oexl9x sitelibdir\=./.gem.20250214-43473-oexl9x
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250214-43473-oexl9x sitelibdir\=./.gem.20250214-43473-oexl9x install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20250214-43473-oexl9x/skiptrace/internal
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250214-43473-oexl9x sitelibdir\=./.gem.20250214-43473-oexl9x clean

@@ -1,0 +1,18 @@
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.3/ext/stringio
+/home/shubhankar/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-720wog sitelibdir\=./.gem.20250214-25234-720wog clean
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-720wog sitelibdir\=./.gem.20250214-25234-720wog
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-720wog sitelibdir\=./.gem.20250214-25234-720wog install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20250214-25234-720wog
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-720wog sitelibdir\=./.gem.20250214-25234-720wog clean

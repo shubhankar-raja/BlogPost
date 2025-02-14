@@ -1,0 +1,19 @@
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+/home/shubhankar/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-vn96dt sitelibdir\=./.gem.20250214-25234-vn96dt clean
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-vn96dt sitelibdir\=./.gem.20250214-25234-vn96dt
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-vn96dt sitelibdir\=./.gem.20250214-25234-vn96dt install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250214-25234-vn96dt/debug
+
+current directory: /home/shubhankar/social-media/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250214-25234-vn96dt sitelibdir\=./.gem.20250214-25234-vn96dt clean
